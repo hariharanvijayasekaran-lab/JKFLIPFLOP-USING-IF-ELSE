@@ -6,6 +6,7 @@ To implement  JK flipflop using verilog and validating their functionality using
 
 **SOFTWARE REQUIRED:**
 
+# JKFLIPFLOP-USING-IF-ELSE
 Quartus prime
 
 **THEORY**
@@ -38,11 +39,18 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 
+<img width="1757" height="829" alt="Screenshot 2025-10-09 104036" src="https://github.com/user-attachments/assets/9954263d-c5d1-4030-a700-84cbf23facc5" />
+
+
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+<img width="1915" height="874" alt="Screenshot 2025-10-09 104203" src="https://github.com/user-attachments/assets/c4f29bbb-2d53-42c8-b957-2a7e97271d2b" />
+
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 **RESULTS**
+Thus the JK flipflop is implemented and verified.
